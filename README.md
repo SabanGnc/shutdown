@@ -1,5 +1,5 @@
+![pc-computer](https://github.com/SabanGnc/shutdown/assets/139702707/86fbf442-d476-4c0a-8731-ee49e4b766c1)
 
-![img_58336fa5f0d8d](https://github.com/SabanGnc/shutdown/assets/139702707/36dc7d85-6bec-4c2f-9f65-14f36b2d1939)
 # shutdown
 shutdown pc use python
 When I shut down my Windows device normally, it wouldn't shut down completely.
