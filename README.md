@@ -22,6 +22,6 @@ If name of the exe file is shutdown, it doesn't work because the commands requir
 
 <h3 align="center">Connect with me:</h3> 
 <p align="center">
-  📧 Email: sabangenc95@gmail.com<br>
-  💬 Discord: @vexel.dll<br>
+  📧 Email: vexeljs@gmail.com<br>
+  💬 Discord: @vexel.js<br>
 </p>
